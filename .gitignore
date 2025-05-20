@@ -1,0 +1,10 @@
+*Anitha.yaml  
+
+
+chrome_dev_profile/
+chrome_profile/
+__pycache__/
+*.pdf
+Output/
+Qa/
+temp_chrome_profile/
