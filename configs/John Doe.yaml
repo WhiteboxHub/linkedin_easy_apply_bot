@@ -1,6 +1,6 @@
-username: 
-password: 
-phone_number: 
+username: psunil55433
+password: Sunil4063@
+phone_number: 9182390503
 
 profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 role_type: ML
@@ -21,34 +21,34 @@ roletype:
 
 salary: 160,000
 rate: 65
-# --------- Optional Parameters -------
+# # --------- Optional Parameters -------
 uploads:
-  Resume: Resumes\John.pdf
-  # Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
-  #Photo: # PATH TO photo
+ Resume: Resumes\John.pdf
+#   # Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
+#   #Photo: # PATH TO photo
 
 # Male or Female
-gender: 
+gender: Male
 
 
-CurrentCTC: 200000
+# CurrentCTC: 200000
 
-#location of Output file
-output_filename:
-- I:\IP-linkedinMarketing_applyicationBot\Deepa_EasyApply\OUTPUT.csv
+# #location of Output file
+# output_filename:
+# - I:\IP-linkedinMarketing_applyicationBot\Deepa_EasyApply\OUTPUT.csv
 
-blacklist:
-- Lucid Motors
-- CIGNA Health Insurance
-- E-Trade
-- Frontier Airlines
-- PeerVU
-# Company names you want to ignore
+# blacklist:
+# - Lucid Motors
+# - CIGNA Health Insurance
+# - E-Trade
+# - Frontier Airlines
+# - PeerVU
+# # Company names you want to ignore
 
-experience_level:
-  - 1 # Entry level
-  - 2 # Associate
-  - 3 # Mid-Senior level
-  - 4 # Director
-  - 5 # Executive
-  - 6 # Internship
+# experience_level:
+#   - 1 # Entry level
+#   - 2 # Associate
+#   - 3 # Mid-Senior level
+#   - 4 # Director
+#   - 5 # Executive
+#   - 6 # Internship
