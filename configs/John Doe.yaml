@@ -1,6 +1,6 @@
 username: 
 password: 
-phone_number:
+phone_number: 
 
 profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 role_type: ML
