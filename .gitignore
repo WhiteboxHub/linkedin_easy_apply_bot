@@ -1,9 +1,6 @@
-*Anitha.yaml  
-
 
 chrome_dev_profile/
 chrome_profile/
 __pycache__/
 *.pdf
-Output/
 temp_chrome_profile/

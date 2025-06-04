@@ -1,6 +1,6 @@
-username: psunil55433
-password: Sunil4063@
-phone_number: 9182390503
+username: 
+password: 
+phone_number: 
 
 profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 role_type: ML
