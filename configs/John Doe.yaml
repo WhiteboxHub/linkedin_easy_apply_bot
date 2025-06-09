@@ -23,7 +23,7 @@ salary: 160,000
 rate: 65
 # # --------- Optional Parameters -------
 uploads:
- Resume: Resumes\John.pdf
+ Resume: Resumes\john.pdf
 #   # Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
 #   #Photo: # PATH TO photo
 
